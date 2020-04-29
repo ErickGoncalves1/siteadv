@@ -1,0 +1,33 @@
+.blue-adv{
+    background-color: #1074bc;
+}
+
+.green-adv{
+    background-color: #a4ce40;
+}
+
+.text-white{
+    color: white;
+}
+
+section.pb0 div.feature{
+    padding-bottom: 0;
+   
+}
+
+section.bg-colossus{
+    background: #0048cd;
+    color: #fff;
+}
+
+.text-white{
+    color:#ffffff!important;
+}
+
+.award-colossus{
+    margin-top: 60px;
+}
+
+.bggr{
+    background: #ddd;
+}
