@@ -1,0 +1,37 @@
+
+.btn-lg:hover {
+    background-color: #4e4e4e;
+    border: none;
+}
+/* mobile first */
+/* breackpoint */
+/* tablet ou celular landscape */
+@media (min-width: 576px) {
+    .for {
+        width: 100%;
+    }
+}
+
+/* desktop */
+@media (min-width: 768px) {
+    .for {
+        width: 50%;
+        float: left;
+    }
+
+    .imgebg {
+        height: 157vh;
+    }
+
+    
+}
+
+/* large desktop */
+@media (min-width: 992px) {
+
+}
+
+/* extra large desktop */
+@media (min-width: 1200px) {
+
+}
