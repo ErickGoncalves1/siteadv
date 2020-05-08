@@ -1,0 +1,32 @@
+ul li p strong  {
+    margin: 0;
+    font-size: 20px;
+    color: black;
+}
+
+ul li p strong {
+    border-bottom: solid 2px red;
+    padding: 7px
+}
+
+.text_pad{
+    line-height: 1.34375em;
+} 
+
+.col-sm h3 {
+    color: #4981C0;
+}
+/* .col-sm::before{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 40px;
+    width: 2px;
+    margin-left: -1.5px;
+    content: '';
+    background-color: #575757;
+} */
+
+.img_lap {
+    
+}

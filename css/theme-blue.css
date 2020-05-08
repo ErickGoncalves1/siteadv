@@ -398,7 +398,7 @@ body {
 .height-30,
 .height-20,
 .height-10 {
-  height: 204vh;
+  height: 210vh;
   padding: 5em 0;
 }
 @media all and (max-width: 767px) {
@@ -436,7 +436,7 @@ body {
     height: 60vh;
   }
   .height-70 {
-    height: 103vh;
+    height: 90vh;
   }
   .height-80 {
     height: 80vh;
@@ -5472,7 +5472,7 @@ section:not(.imagebg):not(.bg--dark):not(.bg--primary):not(.slider) .flex-contro
 }
 .features-10 .feature {
   margin: 0;
-  padding: 6.5em 0;
+  padding: 3.5em 0;
   min-height: 434px;
 }
 .features-10 .feature i {

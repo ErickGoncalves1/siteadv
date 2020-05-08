@@ -1,0 +1,59 @@
+
+
+.acess{
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+}
+
+.fontt {
+    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+    color: #232323;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.targs a {
+    text-decoration: none;
+    color: #767676;
+    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+}
+
+.onee {
+    height: 695px;
+}
+.contacts {
+    height: 100vh;
+}
+
+/* 
+@media (max-width: 700px) {
+    .onee {
+        height: 140vh;
+    }
+}
+
+@media (min-width: 701px) {
+    .onee {
+        height: 57vh;
+    }
+}
+
+@media (min-width: 1024px) {
+    .onee {
+        height: 80vh;
+    }
+}*/
+
+
+
+@media (min-width: 1200px) {
+   
+    .contacts {
+        height: 50vh;
+    }
+}
+
