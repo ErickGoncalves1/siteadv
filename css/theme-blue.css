@@ -1332,7 +1332,7 @@ nav {
   display: inline-block;
 }
 .nav-bar.nav--fixed {
-  position: fixed;
+  position: absolute;
   width: 100%;
   left: 0;
   z-index: 999;
@@ -3155,13 +3155,13 @@ body[data-scroll-reveal="true"] section:not(:first-child) {
   visibility: hidden;
 }
 body.theme--boxed {
-  padding: 4.875em 0;
+  /* padding: 4.875em 0; */
   background: #eeeeee;
 }
 body.theme--boxed .main-container,
 body.theme--boxed nav,
 body.theme--boxed .nav-bar.nav--fixed {
-  max-width: 1400px;
+  /* max-width: 1400px; */
   margin: 0 auto;
   left: 0;
   right: 0;

@@ -23,7 +23,7 @@
 }
 
 .onee {
-    height: 695px;
+    height: 750px;
 }
 .contacts {
     height: 100vh;
@@ -57,3 +57,10 @@
     }
 }
 
+@media (min-width: 1900px) {
+   
+    .onee {
+        height: 820px;
+    }
+
+}
