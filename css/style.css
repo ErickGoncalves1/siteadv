@@ -29,12 +29,46 @@
     height: 100vh;
 }
 
-/* 
-@media (max-width: 700px) {
-    .onee {
-        height: 140vh;
+#imgh {
+    background: white;
+    border: none;
+    width: 63vw;
+}
+
+#fonttex{
+    font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+    color: #343434;
+    font-weight: 600;
+}
+
+
+@media (max-width: 661px){
+    #imgsect {
+        background: #152a47;
+        height: 70vh;
     }
 }
+@media (min-width: 662px) {
+
+    #imgsect {
+        background-image: url(/img/HOME02.png); 
+        background-size: 100% 100%;
+    }
+    #imgh {
+        background: white;
+        border: none;
+        width: 35vw;
+    }
+    
+    #fonttex{
+        font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+        color: #343434;
+        font-weight: 600;
+    }
+}
+
+/* 
+
 
 @media (min-width: 701px) {
     .onee {
